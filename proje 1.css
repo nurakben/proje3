@@ -1,0 +1,40 @@
+body {
+    background-color: #DEB887;
+    font-size: xx-large;;
+}
+
+h1, h2{
+	text-align: center;
+    color: #2F4F4F;
+}
+
+.gezegen { color: black;
+font-family: cursive; }
+
+#onemli { color: red;
+font-size: 45px;
+ }
+
+ .kitaplar { color: black;
+ font-family: fantasy; }
+
+ #anakutu {
+    width: 1300px;
+    height: 1000px;
+    overflow: scroll;
+    border: 5px solid;
+    margin: auto;
+    background-color: #FAEBD7;
+ }
+
+ h3 {
+    color: black;
+ }
+
+ .ickutu {
+    width: 1200px;
+    max-height: 1300px;
+    border: 2px solid;
+    margin: auto;
+    padding: 5px;
+ }
